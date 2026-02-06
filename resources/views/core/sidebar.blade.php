@@ -15,14 +15,21 @@
 		<li class="nav-item {{ activeLink(routeName(), 'upload.index') }}">
       <a class="nav-link" href="{{ route('upload.index') }}">
 				<i class="fa-solid fa-cloud-arrow-up nav-icon"></i>
-        UPLOAD
+        UPLOAD DOCS
       </a>
     </li>
 
 		<li class="nav-item {{ activeLink(routeName(), 'user') }}">
       <a class="nav-link" href="{{ route('user.index') }}">
 				<i class="fa-solid fa-circle-user nav-icon"></i>
-        USER
+        USER ACCOUNT
+      </a>
+    </li>
+
+		<li class="nav-item {{ activeLink(routeName(), 'manual') }}">
+      <a class="nav-link" href="{{ route('manual.index') }}">
+				<i class="fa-solid fa-person-chalkboard nav-icon"></i>
+        MANUAL
       </a>
     </li>
 

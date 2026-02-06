@@ -11,7 +11,7 @@
 				{{ html()->form('GET', '/maintenance/user')->open() }}
 					<div class="row">
 						<div class="col text-start fs-3">
-							Users
+							User Accounts
 						</div>
 						<div class="col d-flex flex-row justify-content-end">
 							

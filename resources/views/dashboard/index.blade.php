@@ -4,7 +4,6 @@
   <div class="card mb-4">
     <div class="card-header fs-3">
 			Dashboard
-			<a href="/user-manual#dashboard" class="float-end text-danger" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-placement="top" title="Click to see user manual."><i class="fa-solid fa-person-chalkboard"></i></a>
     </div>
     <div class="card-body">
 			<div class="card">

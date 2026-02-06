@@ -4,7 +4,7 @@
 	<div class="card-header">
 		<div class="row">
 			<div class="col text-start fs-3">
-				{{ routeName() == 'user.create' ? 'Add New' : 'Update' }} User
+				{{ routeName() == 'user.create' ? 'Add New' : 'Update' }} User Account
 			</div>
 			<div class="col text-end">
 				@if(routeName() == 'user.edit')

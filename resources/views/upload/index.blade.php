@@ -3,7 +3,7 @@
 @section('content')
   <div class="card mb-4">
     <div class="card-header fs-3">
-			UPLOAD
+			Upload Documents
     </div>
     <div class="card-body container">
 			<div class="alert alert-danger d-none" id="error_msg"></div>

@@ -8,6 +8,7 @@ use App\Http\Controllers\DocumentController;
 use App\Http\Controllers\SearchController;
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\ManualController;
 
 /*
 |--------------------------------------------------------------------------
@@ -33,6 +34,8 @@ Route::middleware('auth')->group(function () {
 	Route::resource('user', UserController::class);
 
 	Route::resource('profile', ProfileController::class);
+
+	Route::resource('manual', ManualController::class);
 	
 });
 
