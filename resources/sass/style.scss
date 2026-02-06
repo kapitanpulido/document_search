@@ -1,0 +1,67 @@
+@import "@coreui/coreui/scss/coreui";
+
+// add fontawesome
+@import "@fortawesome/fontawesome-free/css/all.css";
+
+@import "layout";
+// add toastr
+@import "toastr/toastr";
+
+
+
+
+
+// Here you can add other styles
+@mixin foreColor($color){
+  color: $color !important;
+}
+
+@mixin backgroundColor($color){
+  background-color: $color !important;
+}
+
+@mixin fonSize($size){
+  font-size: $size !important;
+}
+
+
+.bg_1 { 
+  @include backgroundColor(#f0f0f0);
+}
+
+.bg_2 {
+  background-image: url('../img/bg_search.jpg');
+  background-size: cover;        /* scale to cover the container */
+  background-position: center;   /* center the image */
+  background-repeat: no-repeat;  /* no tiling */
+}
+
+.bg_3 {
+  background-image: url('../img/bg_login.jpg');
+  background-size: cover;        /* scale to cover the container */
+  background-position: center;   /* center the image */
+  background-repeat: no-repeat;  /* no tiling */
+}
+
+.fs_1 {
+	@include fonSize(70px);
+}
+
+.active {
+  @include foreColor(#ffffff);
+  @include backgroundColor(#001230);
+}
+
+select {
+  appearance: auto !important;
+}
+
+.hand {
+  cursor: pointer;
+}
+
+
+.table-hover tbody tr:hover td { 
+  @include foreColor(#000000);
+  @include backgroundColor(#bde7ff);
+}

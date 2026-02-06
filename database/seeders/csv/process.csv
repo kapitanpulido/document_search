@@ -1,0 +1,291 @@
+id,department_id,name,transaction_code,is_active
+1,1,Financial Statement/Working Book Preparation,ACFSWBP,1
+2,1,Processing of Billing Statement,ACPBS,1
+3,1,Processing of Payment of Claim,ACPPC,1
+4,1,Processing of Payment of Personal Services and Remittance of Statutory Deduction,ACPPPSRSD,1
+5,1,Issuance of Billing Assessment for Seaport Customers,ACIBASC,1
+6,2,Issuance of Accreditation Permit (New/ Renewal),AOIAPNR,1
+7,2,Issuance of Provisional Accreditation,AOIPA,1
+8,2,Issuance of  Accreditation Permit online,AOIAP,0
+9,3,Issuance of One Day Sticker Pass,ADIODSP,1
+10,3,"Issuance of Access Pass (Annual, Seasonal, Temporary)",ADIAPAST,1
+11,3,Issuance of Flight Line Driver's Permit,ADIFLDP,1
+12,3,Issuance of AMA Vehicle Pass,ADIAMAVP,0
+13,4,Issuance of Board Related Documents,BSIBRD,1
+14,4,Issuance of Board Related Documents thru Online,BSIBRDO,1
+15,5,Issuance of Building Permit,BPSDIBP,1
+16,5,Issuance of Occupancy Permit,BPSDIOP,1
+17,6,Processing of New Business Proposal and Locator's Request for Renewal of Lease/Sublease Agreement,BIDICTPNBPLRRLSA,0
+18,6,Issuance of New/Renewal Certificate of Registration (CoR) and Certificate of Registration and Tax Exemption (CRTE),BIDICTINRCRCRCRTECRTE,0
+19,6,Issuance of Letter of Endorsement to Securities and Exchange Commission (SEC),BIDICTILESECSEC,0
+20,6,Issuance of Certified True Copy (CTC) of the Certificate of Registration (CoR) and Certificate of Registration and Tax Exemption (CRTE),BIDICTICTCCTCCRCRCRTECRTE,0
+21,7,Processing of New Business Proposal and Locator's Request for Renewal of Lease/Sublease Agreement,BIDLPNBPLRRLSA,0
+22,7,Issuance of New/Renewal Certificate of Registration (CoR) and Certificate of Registration and Tax Exemption (CRTE),BIDLINRCRCRCRTECRTE,0
+23,7,Issuance of Letter of Endorsement to Securities and Exchange Commission (SEC),BIDLILESECSEC,0
+24,7,Issuance of Certified True Copy (CTC) of the Certificate of Registration (CoR) and Certificate of Registration and Tax Exemption (CRTE),BIDLICTCCTCCRCRCRTECRTE,0
+25,8,Processing of New Business Proposal and Locator's Request for Renewal of Lease/Sublease Agreement,BIDLPNBPLRRLSA,0
+26,8,Issuance of New/Renewal Certificate of Registration (CoR) and Certificate of Registration and Tax Exemption (CRTE),BIDLINRCRCRCRTECRTE,0
+27,8,Issuance of Letter of Endorsement to Securities and Exchange Commission (SEC),BIDLILESECSEC,0
+28,8,Issuance of Certified True Copy (CTC) of the Certificate of Registration (CoR) and Certificate of Registration and Tax Exemption (CRTE),BIDLICTCCTCCRCRCRTECRTE,0
+29,9,Processing of New Business Proposal and Locator's Request for Renewal of Lease/Sublease Agreement,BIDMMPNBPLRRLSA,0
+30,9,Issuance of New/Renewal Certificate of Registration (CoR) and Certificate of Registration and Tax Exemption (CRTE),BIDMMINRCRCRCRTECRTE,0
+31,9,Issuance of Letter of Endorsement to Securities and Exchange Commission (SEC),BIDMMILESECSEC,0
+32,9,Issuance of Certified True Copy (CTC) of the Certificate of Registration (CoR) and Certificate of Registration and Tax Exemption (CRTE),BIDMMICTCCTCCRCRCRTECRTE,0
+33,10,Issuance of Subic Bay Freeport Zone Certificate of Non-Coverage,ECISBFZCNC,1
+34,10,Issuance of Permit to Conduct Environmental Activity in Terrestrial and/or Marine Ecosystem (including Research Permit),ECIPCEATMERP,1
+35,10,Issuance of Amendment to Subic Bay Freeport Zone Certificate of Non-Coverage,ECIASBFZCNC,1
+36,10,Issuance of Notice to Proceed,ECINP,1
+37,10,Issuance of Environmental Clearance for Processing of Admission of Imported Raw Materials,ECIECPAIRM,1
+38,10,Issuance of Environmental Clearance for Processing of Admission of Imported Recyclable Materials,ECIECPAIRM,1
+39,10,"Issuance of Permit to Transport Effluent, Septage and Sewage",ECIPTESS,1
+40,10,Issuance of Environmental Clearance for Accreditation of Service Providers,ECIECASP,1
+41,10,Issuance of Permit to Operate Air Pollution Source Installation,ECIPOAPSI,1
+42,10,Issuance of Certificate of Admission for Duty Free and Tax Exempt Motor Vehicles,ECICADFTEMV,0
+43,11,Facilitation of Engineering Services,EDFES,1
+44,11,Facilitation of Infrastructure Projects,EDFIP,1
+45,11,Facilitation of Consultancy Project,EDFCP,1
+46,12,Preparation of Corporate Operating Budget,FPBDPCOB,1
+47,12,Certify Budget Availability on Commitment Request and Budget Utilization Request,FPBDCBACRBUR,1
+48,12,Validation of Financial Analysis from Business Group,FPBDVFABG,1
+49,13,Fire Safety Inspection,FDFSI,1
+50,13,Issuance of Hot Works/Hazardous Operation Permit,FDIHWHOP,1
+51,13,Conduct of Fire Safety Awareness Training,FDCFSAT,0
+52,14,Processing of New Business Proposal and Locator's Request for Renewal of Lease/Sublease Agreement,GBIDPNBPLRRLSA,0
+53,14,Issuance of New/Renewal Certificate of Registration (CoR) and Certificate of Registration and Tax Exemption (CRTE),GBIDINRCRCRCRTECRTE,0
+54,14,Issuance of Letter of Endorsement to Securities and Exchange Commission (SEC),GBIDILESECSEC,0
+55,14,Issuance of Certified True Copy (CTC) of the Certificate of Registration (CoR) and Certificate of Registration and Tax Exemption (CRTE),GBIDICTCCTCCRCRCRTECRTE,0
+56,15,Processing of Request for Manpower Acquisition,HRMDPRMA,1
+57,15,Processing of Appointment,HRMDPA,1
+58,15,"Processing of Request for: Certification of Employment (COE), Certification of No Pending Case (CNPC) and Certification of Latest Payroll (CLP), and Copy of Appointment and Service Records (SR)",HRMDPRCECOECNPCCNPCCLPCLPCASRSR,1
+59,15,Administration and Management of In-House Training Program,HRMDAMIHTP,1
+60,15,Administration and Management of External (Local/Foreign) Training,HRMDAMELFT,1
+61,15,"Processing of GSIS, Pag-IBIG and Philhealth Membership",HRMDPGSISPIBIGPM,1
+62,15,Processing of GSIS Consolidated Loan and Policy Loan,HRMDPGSISCLPL,1
+63,15,Processing of Pag-IBIG Loan,HRMDPPIBIGL,1
+64,15,Processing of Employee Leave Monitization,HRMDPELM,1
+65,15,Processing of Terminal Leave/Final Pay,HRMDPTLFP,1
+66,16,Issuance of Clearance for New/Renewal of Certificate of Accreditation,IIOICNRCA,1
+67,16,Conduct of Record Check/Background Investigation of Qualified Applicants,IIOCRCBIQA,1
+68,16,Conduct of Record Check/Background Investigation of Local/Foreign SBF Incorporators/Shareholders and SBIA Clients Requesting for SBIA Access Pass,IIOCRCBILFSBFISSBIACRSBIAAP,1
+69,16,Conduct of Special Inquiry,IIOCSI,1
+70,16,Conduct of Intelligence Operations,IIOCIO,1
+71,16,Conduct Intelligence Coverage,IIOCIC,1
+72,16,Conduct of Security Coverage/Security Assistance Provided to Foreign/Local Dignitaries,IIOCSCSAPFLD,1
+73,16,"Conduct of Investigation on Reported Violation of Laws and SBMA Rules and Regulations, and Motor Vehicle Mishap/ Accident",IIOCIRVLSBMARRMVMA,1
+74,16,Issuance of Certification/Investigation Complaint Report,IIOICICR,1
+75,16,Issuance of Fingerprint Evaluation for the Issuance of SBMA Gate Pass,IIOIFEISBMAGP,1
+76,16,Issuance of Clearance for Replacement of Lost SBMA Gate Pass,IIOICRLSBMAGP,1
+77,16,Issuance of Clearance/Certification for Result of Derogatory Information (DI)/ Record Check (RC),IIOICCRDIDIRCRC,1
+78,16,Release of Impounded Vehicle Involved in Motor Vehicle Mishap/Accident,IIORIVIMVMA,1
+79,17,Internal Audit,IASIA,1
+80,17,Follow-up Audit,IASFA,1
+81,18,Endorsement for Issuance of Alien Employment Permit (AEP),LDEIAEPAEP,0
+82,18,Endorsement for Issuance of Provisional Work Permit (PWP) and Special Work Permit (SWP),LDEIPWPPWPSWPSWP,1
+83,18,Endorsement for Issuance of Entry/Exit Gate Pass (New/Renewal),LDEIEEGPNR,1
+84,18,Manpower Sourcing Services,LDMSS,1
+85,18,Conciliation - Mediation for Locators,LDCML,0
+86,18,Labor Standard Inspection,LDLSI,0
+87,18,Endorsement for Issuance of Entry/Exit Pass (New/Renewal),LDEIEEPNR,0
+88,18,Conciliation - Mediation for Contractors/Subcontractors,LDCMCS,0
+89,18,Labor Standard Inspection for Contractor/Subcontactor,LDLSICS,0
+90,18,"Issuance of Certification of Accreditation (Manpower Services, Janitorial/Messengerial, Security Services and Port Related Services)",LDICAMSJMSSPRS,1
+91,18,Conciliation - Mediation of Referral Case,LDCMRC,1
+92,19,Issuance of Transfer of Custody,LADDITC,1
+93,19,Issuance of Technical Clearance,LADDITC,1
+94,19,Issuance of Repainting Permit,LADDIRP,1
+95,19,Issuance of Certificate of Residency or other Similar Certification,LADDICRSC,1
+96,19,Issuance of Location Map/Technical Plan,LADDILMTP,0
+97,19,Issuance of Authority to Survey,LADDIAS,1
+98,19,Certified Machine Copy of the Original,LADDCMCO,1
+99,19,Validation of Technical Plan for Sublessor and Sublessees,LADDVTPSS,1
+100,19,Processing of Term Sheet and Lease Proposal and Other Contract Related Requests,LADDPTSLPOCRR,1
+101,19,Endorsement of Property Lot Survey (PLS) Plan,LADDEPLSPLSP,1
+102,19,Issuance of Property Lot Survey Plan for SBF Housing Unit,LADDIPLSPSBFHU,1
+103,20,Issuance of Clearance for Road Works as Prerequisite for the Application of the Permit in Building Permit and Safety Department,LEDICRWPAPBPSD,1
+104,20,Conduct Seminar on Firearm Safety and Procedure and Training on Familiarization Firing for Security Service Providers,LEDCSFSPTFFSSP,1
+105,20,Processing of Authority to Transfer of Motor Vehicles with Subic Bay Freeport Zone,LEDPATMVSBFZ,0
+106,20,Underguard of Locator's Transshipment Outside Subic Bay Freeport Zone,LEDULTOSBFZ,0
+107,20,Provide Security Escort within Subic Bay Freeport Zone,LEDPSESBFZ,0
+108,20,Conduct seminar on SBMA Traffic  Rules and Regulations for Transport Service Providers,LEDCSBMATRRTSP,1
+109,20,Releasing of Impounded Vehicles,LEDRIV,1
+110,20,Releasing of Confiscated Fishing Paraphernalia,LEDRCFP,0
+111,20,Releasing of Impounded Items/Merchandise,LEDRIM,0
+112,21,Issuance of Legal Opinion,LDILO,1
+113,21,Request for Contract Drafting/Review,LDRCDR,1
+114,21,Issuance of Demands and Notices/ Enforcement of Remedies to Collect SBMA Receivable,LDIDNERCSBMAR,1
+115,22,Towerlights Rental Services,MTDTRS,1
+116,22,Issuance of Excavation Permit,MTDIEP,1
+117,22,Repair/Maintenance and other Services,MTDRMS,1
+118,22,Request for Garbage Collection,MTDRGC,1
+119,22,Application of Motor Vehicle Operator's Identification Card,MTDAMVOIC,1
+120,22,Transportation/Equipment Service Request,MTDTESR,1
+121,22,Vehicle/Equipment Maintenance/Repair Services Request,MTDVEMRSR,1
+122,23,Provision of Technical Support,MISPTS,1
+123,23,Provision of System Support,MISPSS,1
+124,24,Media Production Management,MPDMPM,1
+125,24,Broadcast Media Management for Paid Commercial,MPDBMMPC,1
+126,24,Broadcast Media Management for Public Service,MPDBMMPS,1
+127,24,Media Relations Management,MPDMRM,1
+128,24,Media Relations Management for Cruise Ship,MPDMRMCS,1
+129,25,Issuance of Admission Authority for Duty Free and Tax Exempt Motor Vehicles,MVROIAADFTEMV,1
+130,25,Issuance of Authority tor Release for Duty Free and Tax Exempt Motor Vehicles,MVROIARDFTEMV,1
+131,25,Issuance of Certificate of Admission for Duty Free and Tax Exempt Motor Vehicles,MVROICADFTEMV,1
+132,25,Issuance of Certificate of Registration for Renewal of Duty Free and Tax Exempt Motor Vehicles,MVROICRRDFTEMV,0
+133,25,Issuance of Conduction Pass for Duty Free and Tax Exempt Motor Vehicles,MVROICPDFTEMV,1
+134,25,Issuance of Accreditation for Transportation Service Providers,MVROIATSP,0
+135,25,Issuance of Vehicle Decal/Sticker,MVROIVDS,1
+136,26,Action on Regular or Routine Documents,OCAARRD,1
+137,26,Action on Complex or Non Routine Documents,OCAACNRD,1
+138,26,Action on Highly Technical  Documents,OCAAHTD,1
+139,27,"Approval/Disapproval, Signature and Action to All Documents and Requests Received",ODAAADSAADRR,1
+140,28,Processing of New Business Proposal and Locator's Request for Renewal of Lease/Sublease Agreement,ODABIPNBPLRRLSA,1
+141,28,Issuance of New/Renewal Certificate of Registration (CoR) and Certificate of Registration and Tax Exemption (CRTE),ODABIINRCRCRCRTECRTE,1
+142,28,Issuance of Letter of Endorsement to Securities and Exchange Commission (SEC),ODABIILESECSEC,1
+143,28,Issuance of Certified True Copy (CTC) of the Certificate of Registration (CoR) and Certificate of Registration and Tax Exemption (CRTE),ODABIICTCCTCCRCRCRTECRTE,1
+144,29,Approval/Signing and Action to All Documents and Request Received,ODAFASAADRR,1
+145,29,Processing of Authority for Chargeable Expenses,ODAFPACE,1
+146,30,Action on Regular and Routine Documents,ODAHSARRD,1
+147,30,Review and Approval of Notice of violation and Notice of Deficiency,ODAHSRANND,1
+148,31,Legal Affairs Management (Highly Technical),ODALALAMHT,1
+149,31,Legal Affairs Management (Simple),ODALALAMS,1
+150,32,Approval/Disapproval of Routinary Request (Simple),ODAPOADRRS,1
+151,32,Approval/Disapproval of Routinary Request (Complex),ODAPOADRRC,1
+152,32,Approval/Disapproval of Routinary Request (Highly Technical),ODAPOADRRHT,1
+153,33,Action on Memoranda and Other Request,ODAPWTSGAMOR,1
+154,33,Administrative and Routinary Services,ODAPWTSGARS,1
+155,34,Administration and Monitoring of Correspondence (Simple),OSARGAMCS,1
+156,34,Administration and Monitoring of Correspondence (Complex),OSARGAMCC,1
+157,34,Administration and Monitoring of Correspondence (Highly Technical),OSARGAMCHT,1
+158,34,Approval/Disapproval of Appeal for Violation Penalty Considerations,OSARGADAVPC,1
+159,35,Processing of New Business Proposal and Locator's Request for Renewal of Lease/Sublease Agreement,OSDABIPNBPLRRLSA,1
+160,35,Issuance of New/Renewal Certificate of Registration (CoR) and Certificate of Registration and Tax Exemption (CRTE),OSDABIINRCRCRCRTECRTE,1
+161,35,Issuance of Letter of Endorsement to Securities and Exchange Commission (SEC),OSDABIILESECSEC,0
+162,35,Issuance of Certified True Copy (CTC) of the Term Sheets of New Business Proposals and Locators' Requests for Renewal and Amendments of Lease/Sublease Agreements,OSDABIICTCCTCCRCRCRTECRTE,1
+163,36,Administration and General Management of the Offices and Departments under Operations Group (Simple),OSDAOAGMODOGS,1
+164,36,Administration and General Management of the Offices and Departments under Operations Group (Complex),OSDAOAGMODOGC,1
+165,36,Administration and General Management of the Offices and Departments under Operations Group (Highly Technical),OSDAOAGMODOGHT,1
+166,37,"Action on Regular or Routine Documents,",OSDASSARRD,1
+167,37,"Action on Complex or Non-Routine Documents,",OSDASSACNRD,1
+168,37,Action on Highly Technical Documents,OSDASSAHTD,1
+169,38,Application for  New Computerized ID,OSDANCID,0
+170,38,Application for Renewal of Computerized ID,OSDARCID,0
+171,38,Application for Temporary Paper Pass,OSDATPP,1
+172,38,Request for Information/ Documents Executive Order No. 2 on Freedom of Information,OSDRIDEONFI,1
+173,38,Management of Documents and Mail Matters,OSDMDMM,1
+174,39,Issuance of Socio-Economic Profile,PDOISEP,1
+175,39,Issuance of Property Clearance and Lot Survey Evaluation,PDOIPCLSE,1
+176,39,Issuance of Locational Clearance,PDOILC,1
+177,40,Request for Procurement of Services and Materials,PPMDRPSM,1
+178,40,Posting of Performance Bond,PPMDPPB,1
+179,40,Withdrawal of Surety Bond,PPMDWSB,1
+180,40,Warranty Claim,PPMDWC,1
+181,40,Issuance of Goods/Supplies/Materials (Stocking items),PPMDIGSMS,1
+182,40,Issuance of Goods/Supplies/Materials (Non-Stocking items/Direct Turn Over),PPMDIGSMNSDTO,1
+183,40,Receipt and Inspection of Delivered Goods/Supplies/Materials (Stocking and Non-Stocking items),PPMDRIDGSMSNS,1
+184,40,Issuance of Gatepass Clearance,PPMDIGC,1
+185,40,Endorsement of Relief from Accountability to COA,PPMDERACOA,1
+186,40,Repossession/Takeover of Facility/Property,PPMDRTFP,1
+187,40,Issuance of SBMA Movable Assets (Furniture and Equipment),PPMDISBMAMAFE,1
+188,40,Pull-out of SBMA Movable Assets (Furniture and Equipment),PPMDPSBMAMAFE,1
+189,40,Turn Over of SBMA Movable Assets (Furniture and Equipment),PPMDTOSBMAMAFE,1
+190,41,Occupational Health and safety Inspection,PHSDOHI,1
+191,41,Issuance of Medical Certificate and Health Card,PHSDIMCHC,1
+192,41,Medical Standby Services,PHSDMSS,1
+193,41,Dental Services,PHSDDS,1
+194,41,Drug Testing Services,PHSDDTS,1
+195,41,Emergency Medical Services,PHSDEMS,1
+196,41,Non-Emergency Medical Services,PHSDNEMS,1
+197,42,Community Engagement with Stakeholder Communities within Subic Bay Freeport Zone and its Contiguous Areas,PRDCESCSBFZCA,1
+198,43,Issuance of Certificate of Leased Property,ROICLP,1
+199,43,Registration of Leasehold Rights,RORLR,1
+200,43,Issuance and Registration of Original Certificate of Ownership of Leasehold Rights,ROIROCOLR,1
+201,43,Issuance and Registration of Transfer Certificate of Ownership of Leasehold Rights,ROIRTCOLR,1
+202,43,Issuance of Original Condominium Certificate of Ownership and Leasehold Rights,ROIOCCOLR,1
+203,43,Issuance of Transfer of Condominium Certificate of Ownership of Leasehold Rights,ROITCCOLR,1
+204,43,Registration of Mortgages (Real Estates and Chattels),RORMREC,1
+205,44,Issuance of Seaport Controlled Blank Forms (Manually)/Anti-Pilferage Seal,SDISCBFMAPS,1
+206,44,Processing of Seaport Cargo Clearance/Permit (Manual),SDPSCCPM,1
+207,44,Processing of Vessel Entry Clearance,SDPVEC,1
+208,44,Processing of Vessel Exit Clearance,SDPVEC,1
+209,44,Processing of Gate Pass Management System (GMS),SDPGPMSGMS,1
+210,44,Issuance of Clearance of Cargoes Exiting Tipo,SDICCET,0
+211,44,Inspection of Cargo (Cargo Clearance Application - Tally Sheet),SDICCCATS,0
+212,44,Clearance for the Release of Containerized Cargoes (Controlled Area),SDCRCCCA,0
+213,44,Clearance for the Release of Bulk/ Break Cargoes (Controlled Area),SDCRBBCCA,0
+214,44,Ship Pre-Arrival Meeting (SPAM),SDSPAMSPAM,1
+215,44,Boarding Formalities,SDBF,1
+216,44,Pre-Departure Inspection,SDPDI,1
+217,44,"Monitoring of Vessel Operations and Other Port Related Operations at Pier, Wharves, Warehouses, Open Spaces and Other Seaport Controlled Area",SDMVOOPROPWWOSOSCA,1
+218,44,Monitoring Auxiliary Services or Other Related Activities,SDMASORA,0
+219,45,Telecommunications Services for Repair and Troubleshooting,TDTSRT,1
+220,45,Cellular Mobile Telephone Services,TDCMTS,1
+221,45,Monitoring of Cellular Mobile Telephone Services Usage,TDMCMTSU,1
+222,45,Monitoring of Telephone PIN Code Access Usage,TDMTPINCAU,1
+223,45,Telecommunications Services for Public Address System,TDTSPAS,1
+224,46,"Collection, Treatment and Reporting of Customer Feedback and Customer Complaint",TQMOCTRCFCC,1
+225,47,Issuance of Events Permit,TDIEP,1
+226,47,Issuance of Establishment Classification Certificate,TDIECC,1
+227,47,Reservation of Facilities,TDRF,1
+228,47,Provision of Tour Guide Services,TDPTGS,1
+229,47,Issuance of Marketing and Advertising Permit,TDIMAP,1
+230,48,Endorsement for the Application of Initial System Registration (Value Added Service Provider),TFCDEAISRVASP,1
+231,48,Endorsement for the Application of Client Profile Registration System to the Bureau of Customs,TFCDEACPRSBC,1
+232,48,Admission Permit Processing,TFCDAPP,1
+233,48,Conversion of Approved Admission Permit,TFCDCAAP,0
+234,48,Cancellation of Approved Admission Permit,TFCDCAAP,1
+235,48,Automated Import Permit Processing for Uncontrolled Goods Discharge to Subic,TFCDAIPPUGDS,0
+236,48,Automated Import Permit Processing for Controlled Goods Discharge Other than Subic Port,TFCDAIPPCGDOSP,0
+237,48,Revalidation/Cancellation/ Amendment of Approved ETAPS/TAFS,TFCDRCAAETAPSTAFS,0
+238,48,Manual Import Processing,TFCDMIP,1
+239,48,Automated Export Processing,TFCDAEP,0
+240,48,Manual Export Processing,TFCDMEP,1
+241,49,Issuance of Certified Copy of Official Receipt and/or Certificate of Payment,TDICCORCP,1
+242,49,Processing of Payment Scheme,TDPPS,1
+243,49,Cash Disbursement - Account Payable Voucher (APV),TDCDAPVAPV,1
+244,49,Collection of Fees,TDCF,1
+245,49,Cash Disbursement - Petty Cash Voucher,TDCDPCV,1
+246,49,Check Disbursement,TDCD,1
+247,50,Repair and Maintenance of Streetlights,UDRMS,1
+248,50,Monitoring and Verification of Power Consumption,UDMVPC,1
+249,50,Monitoring and Verification of Water Consumption,UDMVWC,1
+250,51,Issuance of Special Subic-Clark Visa Endorsement Certificate for Foreign Nationals in Subic,VOISSCVECFNS,1
+251,51,Issuance of Visa Exempt Certificate,VOIVEC,1
+252,51,Issuance of Endorsement for Revocation/Cancellation/Downgrading of Special Subic-Clark Visa,VOIERCDSSCV,1
+253,40,Release of Scrap/Unserviceable Properties for Disposal,ROSUPFD,1
+254,18,Issuance of Labor Standards Inspection Clearance (Submission of Labor Standards Compliance),ILSIC SLSC,0
+255,2,Issuance of Accreditation Permit (new/renewal) Online,AOIPO,1
+256,3,Issuance of Aircraft Maneuvering Area (AMA) Vehicle Pass,ADIAMAVP,1
+257,6,Processing of Approval for New Business Proposal and Locator's Request for Renewal of Lease/Sublease Agreement and Processing of Locator's New/Renewal of Certificate of Registration (CoR) and Renewal of Certificate of Registration and Tax Exemption (CRTE),BIDICTPANBPLRRLSAPLNRCORCRTE,1
+258,7,Processing of Approval for New Business Proposal and Locator's Request for Renewal of Lease/Sublease Agreement and Processing of Locator's New/Renewal of Certificate of Registration (CoR) and Renewal of Certificate of Registration and Tax Exemption (CRTE),BIDLPANBPLRRLSAPLNRCORCRTE,1
+259,8,Processing of Approval for New Business Proposal and Locator's Request for Renewal of Lease/Sublease Agreement and Processing of Locator's New/Renewal of Certificate of Registration (CoR) and Renewal of Certificate of Registration and Tax Exemption (CRTE),BIDLOPANBPLRRLSAPLNRCORCRTE,1
+260,9,Processing of Approval for New Business Proposal and Locator's Request for Renewal of Lease/Sublease Agreement and Processing of Locator's New/Renewal of Certificate of Registration (CoR) and Renewal of Certificate of Registration and Tax Exemption (CRTE),BIDMMPANBPLRRLSAPLNRCORCRTE,1
+261,13,Conduct of Fire Brigade and Rescue Training,FDCFBRT,1
+262,18,Endorsement for Issuance of Alien Employment Permit (AEP) / Alien Employment Certificate (AEC) of Exclusion or Exemption,LDEIAEPAECEE,0
+263,18,Conciliation - Mediation (Locators/Contractors/Subcontractors/Service Providers),LDCMLCSSP,1
+264,18,Labor Standards Inspection (Locator),LDLSIL,1
+265,18,Endorsement for Issuance of Entry/Exit Gate pass ( Students),LDEIEEGPS,1
+266,18,Labor Standards Inspection ( Contractors/Subcontractors),LDLSICS,1
+267,18,Labor Standard Inspection Compliance,LDLSIC,1
+268,20,Processing of Authority to Travel/ Transfer of Motor Vehicles/Equipment within Subic Bay Freeport Zone.,LEDPATTMVESBF,1
+269,20,Provide Security Escort Outside Subic Bay Freeport Zone,LEDPSEOSBFZ,1
+270,20,Provide Security Service Within Subic Bay Freeport Zone,LEDPSSWSBFZ,1
+271,20,Release of Confiscated Fishing Paraphernalia,LEDRCFP,1
+272,20,Release of Confiscated Merchandise/Items,LEDRCMI,1
+273,25,Issuance of Accreditation for Transportation Service Providers (new/renewal),MVROIATSPNR,1
+274,25,Issuance of Certificate of Registration Renewal for Duty Free and Tax Exempt Motor Vehicles,MVROICRRDFTEMV,1
+275,38,Application for New SBMA Identification (Batch Processing for 20 or more applicants per company),OSDANSBMAIBP20APC,1
+276,38,Application for Renewal of SBMA Identification (Batch Processing for 20 or more applicants per company),OSDARSBMAIBP20APC,1
+277,38,Application for SBMA Identification (New/Renewal - Individual Processing),OSDASBMAINRIP,1
+278,38,Request for Certification of Subic Bay Freeport Worker Records,OSDRCSBFWR,1
+279,44,Issuance of Clearance for Cargoes Entering or Exiting Tipo (Outer Gate),SDICCEETOG,1
+280,44,Clearance for the Release of Cargoes from Inner Gates Containerized/Petroleum/Bulk/Break Bulk Cargoes (Entry/Exit at Controlled Areas - Boton/NCT/Tank Farm/PPC/Leyte,SDCRCIGCPBBBC,1
+281,44,Inspection of Cargo - Issuance of Tally Sheet,SDICITS,1
+282,44,Clearance for the Release of Bulk/Bulk Break Cargoes (NSD),SDCRBBBC,1
+283,44,"Monitoring Auxiliary Services or Other Related Activities (Bunkering, Chandling, Cargo Handling, Fender-Ladder Accommodation, Lease-Rental of Warehouse or Open Space, Ship Repair, Water Tendering, Watersports Equipment Sticker Registration-Renewal)",SDMASORA,1
+284,48,Processing of Declaration for Admission of Foreign Goods Discharge to Subic Port,TFCDPDAFGDSP,1
+285,48,Processing of Declaration for Admission of Foreign Goods Discharge Other Than Subic Port,TFCDPDAFGDOTSP,1
+286,48,Revalidation/Cancellation/Amendment of Declaration for Admission of Foreign Goods,TFCDRCADAFG,1
+287,53,Processing of Approval for New Business Proposal and Locator's Request for Renewal of Lease/Sublease Agreement and Processing of Locator's New/Renewal of Certificate of Registration (CoR) and Renewal of Certificate of Registration and Tax Exemption (CRTE),BIDGBPANBPLRRLSAPLNRCORCRTE,1
+288,19,Issuance of Locational Map/Technical Plan,LADDILMTP,1
+289,18,Endorsement for Issuance of Alien Employment Permit (AEP) / AEP Certificate of Exclusion or Exemption,LDEIAEPAEPCEE,1
+290,10,Issuance of Tree Cutting/Tree Trimming Permit (for trees that are hazard to life and property),ECIOTCTCP,1

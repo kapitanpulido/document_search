@@ -1,0 +1,54 @@
+id,name,is_active
+1,Accounting Department,1
+2,Accreditation Office,1
+3,Airport Department,1
+4,Board Secretariat,1
+5,Building Permit and Safety Department,1
+6,Business and Investment Department - ICT,1
+7,Business and Investment Department - Leisure,1
+8,Business and Investment Department - Logistics,1
+9,Business and Investment Department - Manufacturing and Maritime,1
+10,Ecology Center,1
+11,Engineering Department,1
+12,Financial Planning and Budget Department,1
+13,Fire Department,1
+14,General Business and Investment Department,0
+15,Human Resource Management Department,1
+16,Intelligence and Investigation Office,1
+17,Internal Audit Service,1
+18,Labor Department,1
+19,Land and Asset Development Department,1
+20,Law Enforcement Department,1
+21,Legal Department,1
+22,Maintenance and Transportation Department,1
+23,Management Information System,1
+24,Media Production Department,1
+25,Motor Vehicle Registration Office,1
+26,Office of the Chairman and Administrator,1
+27,Office of the Deputy Administrator for Administration,1
+28,Office of the Deputy Administrator for the Business Group,1
+29,Office of the Deputy Administrator for Finance,1
+30,Office of the Deputy Administrator for Health and Safety,1
+31,Office of the Deputy Administrator for Legal Affairs,1
+32,Office of the Deputy Administrator for Port Operations,1
+33,Office of the Deputy Administrator for Public Works and Technical Services Group,1
+34,Office of the Senior Administrator for Regulatory Group,1
+35,Office of the Senior Deputy Administrator for Business and Investment,1
+36,Office of the Senior Deputy Administrator for Operations,1
+37,Office of the Senior Deputy Administrator for Support Services,1
+38,Office Services Department,1
+39,Planning and Development Office,1
+40,Procurement and Property Management Department,1
+41,Public Health and Safety Department,1
+42,Public Relations Department,1
+43,Registry Office,1
+44,Seaport Department,1
+45,Telecoms Department,1
+46,Total Quality Management Office,1
+47,Tourism Department,1
+48,Trade Facilitation and Compliance Department,1
+49,Treasury Department,1
+50,Utilities Department,1
+51,Visa Office,1
+52,"Business and Investment Group (General Business and Investment Department, BID-Manufacturing and Maritime, BID-Leisure, BID-Logistics, BID-ICT)",0
+53,Business and Investment Department - General Business,1

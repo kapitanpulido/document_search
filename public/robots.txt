@@ -1,0 +1,11 @@
+ User-agent: *
+ Allow: /
+ Disallow: /dashboard
+ Disallow: /search
+ Disallow: /maintenance
+ Disallow: /reports
+ Disallow: /ccss
+ Disallow: /user-manual
+ Disallow: /profile
+ Disallow: /login
+ Disallow: /admin
