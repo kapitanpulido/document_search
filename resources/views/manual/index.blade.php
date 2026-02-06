@@ -4,7 +4,7 @@
 <div class="container-fluid">
 <div class="animated fadeIn">
 
-  <div class="card">
+  <div class="card border-primary">
     <div class="card-header h4 bg-light">
       User Manual
     </div>

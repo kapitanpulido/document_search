@@ -7,6 +7,12 @@
     @csrf
 
     <br/><br/><br/><br/><br/>
+		
+		<div class="row">
+      <div class="col-md-6 offset-md-3 col-sm-10 offset-sm-1 mb-3 mt-5 align-middle">
+        {{-- logo here --}}
+      </div>
+    </div>
 
     <div class="row">
       <div class="col-md-6 offset-md-3 col-sm-10 offset-sm-1">
